@@ -2,10 +2,17 @@
 
 ![GIF or Image](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM0NTM1Nm9jNTl0d2UxbzJnMWh6aHVkd3h5bm5xbmxyNHVvZG9mZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9W6X9HzEX73VbjR2WV/giphy.gif)
 
-I started my programming journey in 2009, and since 2020, I have been working professionally on real-world projects. In 2023, I founded **TechLiberty Software Solutions**, where I have been developing projects and providing support to companies to help them achieve their digital goals. You can reach me on [LinkedIn](https://www.linkedin.com/in/muhammedozdmr) or visit my [website](http://www.muhammedozdemir.net).
+I started my programming journey in 2009, and since 2020, I have been working professionally on real-world projects. In 2023, I founded **TechLiberty Software Solutions** [website](www.techliberty.co), where I have been developing projects and providing support to companies to help them achieve their digital goals. You can reach me on [LinkedIn](https://www.linkedin.com/in/muhammedozdmr) or visit my [website](http://www.muhammedozdemir.net).
 
 ## 📝 About Me
-After completing my bachelor's degree in 2017 and finishing my master's in 2022, I joined the FullStack Developer Bootcamp at Wissen Akademie. Since then, I have been continuously improving my skills through real-world projects. You can review some of my completed projects on my GitHub page.
+I graduated with honors in Mathematics and Computer Science, and during my university years, I also pursued a minor in Molecular Biology and Genetics, which allowed me to broaden my skills across different disciplines. After graduation, I continued to gain experience by working professionally while enhancing my skills through the FullStack Developer program at Wissen Akademie.
+
+My educational journey didn’t stop there. I completed a Unity game development training at Google Academy, followed by the Google Professional Project Management course, which I completed with distinction. This training helped me gain a solid understanding of Agile and Scrum methodologies.
+
+Throughout both academic programs, I continued to work on various projects, and I have kept my knowledge up-to-date by earning certifications from different platforms. Currently, I’m working on real-world projects and continuing my learning journey to advance my skills in software development.
+
+For more details on my projects, feel free to visit my [GitHub profile](https://github.com/muhammedozdmr) or [website](http://www.muhammedozdemir.net), or reach out to me directly.
+
 
 ## 🚀 Technologies & Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
