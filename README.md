@@ -36,7 +36,9 @@ For more details on my projects, feel free to visit my [GitHub profile](https://
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10202b?style=flat&logo=databricks&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![SignalR](https://img.shields.io/badge/-SignalR-009688?style=flat&logo=signalr&logoColor=white)
-
+![Windows Services](https://img.shields.io/badge/-Windows%20Services-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-0078D6?style=flat&logo=windows&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ## 📊 GitHub Stats
 
