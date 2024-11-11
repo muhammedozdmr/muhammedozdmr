@@ -46,8 +46,6 @@ For more details on my projects, feel free to visit my [GitHub profile](https://
 
 ---
 
-**muhammedozdmr/muhammedozdmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing scalable and efficient backend solutions, primarily in .NET and C#.
