@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects that focus on backend development, distributed systems, or software engineering best practices.
 - 🤔 I’m looking for help with refining my skills in cloud-native development and Kubernetes.
 - 💬 Ask me about my programming journey! I started coding in 2009 and have been working professionally on real-world projects since 2020. In 2023, I founded **TechLiberty Software Solutions**, where I provide tailored software solutions and support to businesses.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammedozdmr), [Email](mailto:info@muhammedozdemir.net), or visit my [website](http://www.muhammedozdemir.net)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammedozdmr), [Email](mailto:muhammed@techliberty.co), or visit my [website](https://www.techliberty.co)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new technologies and always look for ways to improve my productivity through automation and optimization.
 
