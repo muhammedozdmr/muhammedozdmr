@@ -2,7 +2,7 @@
 
 ![GIF or Image](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM0NTM1Nm9jNTl0d2UxbzJnMWh6aHVkd3h5bm5xbmxyNHVvZG9mZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9W6X9HzEX73VbjR2WV/giphy.gif)
 
-I started my programming journey in 2009, and since 2020, I have been working professionally on real-world projects. In 2023, I founded **TechLiberty Software Solutions** [website](www.techliberty.co), where I have been developing projects and providing support to companies to help them achieve their digital goals. You can reach me on [LinkedIn](https://www.linkedin.com/in/muhammedozdmr) or visit my [website](https://www.techliberty.co/).
+I started my programming journey in 2009, and since 2020, I have been working professionally on real-world projects. In 2023, I founded **TechLiberty Software Solutions** [website](https://www.techliberty.co), where I have been developing projects and providing support to companies to help them achieve their digital goals. You can reach me on [LinkedIn](https://www.linkedin.com/in/muhammedozdmr) or visit my [website](https://www.techliberty.co/).
 
 ## 📝 About Me
 I graduated with honors in Mathematics and Computer Science, and during my university years, I also pursued a minor in Molecular Biology and Genetics, which allowed me to broaden my skills across different disciplines. After graduation, I continued to gain experience by working professionally while enhancing my skills through the FullStack Developer program at Wissen Akademie.
